@@ -1,0 +1,5 @@
+Download and install metis in the server using this URL: http://glaros.dtc.umn.edu/gkhome/metis/metis/download
+
+Use run_main.sh bash file to run the main.py code.
+
+See flags configuration in main.py file for the details of input arguments (hyper-parameters).
